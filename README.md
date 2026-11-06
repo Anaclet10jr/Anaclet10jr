@@ -48,25 +48,6 @@
 ---
 
 
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Anaclet10jr&show_icons=true&theme=tokyonight"
-    alt="GitHub Statistics"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaclet10jr&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-    height="180"
-  />
-</p>
-
-
 ---
 
 ## 🌐 Connect With Me
