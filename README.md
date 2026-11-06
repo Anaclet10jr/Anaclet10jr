@@ -21,6 +21,17 @@
 
 ---
 
+
+<h2>🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Anaclet10jr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 ## 🛠️ Programming Languages
 
 <p align="left">
