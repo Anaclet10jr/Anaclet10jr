@@ -94,11 +94,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="Anaclet10jr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:munyanaclet10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
