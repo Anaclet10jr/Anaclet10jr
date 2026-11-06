@@ -59,18 +59,6 @@ Here are some of the projects I work on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaclet10jr&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaclet10jr&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
