@@ -36,7 +36,7 @@
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,java,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle" />
 </p>
 
 ## 🔧 Tools & Platforms
