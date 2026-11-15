@@ -38,10 +38,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat&logo=oracle&logoColor=white" height="48" alt="Oracle Database" />
-  <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle Database" />
-</p>
 </p>
 
 ## 🔧 Tools & Platforms
